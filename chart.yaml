@@ -1,0 +1,4 @@
+apiVersion: v2
+name: face_recognition
+version: 0.1.0
+description: surround the face with a blue frame
